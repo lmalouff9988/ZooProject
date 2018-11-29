@@ -1,5 +1,5 @@
 package objectdemo1;
-
+// NAILS
 public class Dog extends Wolf{
 
     @Override
